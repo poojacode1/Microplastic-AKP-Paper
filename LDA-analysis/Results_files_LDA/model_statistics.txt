@@ -1,0 +1,79 @@
+================================================================================
+LDA MODEL STATISTICS WITH TAXA INFORMATION
+================================================================================
+
+Samples (after filtering): 117
+OTUs (after filtering):    815
+Number of topics:          6
+Coherence score:           0.7713
+Log perplexity:            -3.5302
+
+================================================================================
+TAXA COMPOSITION OF EACH TOPIC
+================================================================================
+
+Topic_0:
+  Primary Phylum:   Proteobacteria (0.394)
+  Secondary Phylum: Bacteroidota (0.215)
+  Primary Family:   Rhodobacteraceae (0.286)
+  Primary Genus:    Gemmobacter (0.228)
+
+Topic_1:
+  Primary Phylum:   Proteobacteria (0.714)
+  Secondary Phylum: Bacteroidota (0.076)
+  Primary Family:   Rhodobacteraceae (0.651)
+  Primary Genus:    Pseudorhodobacter (0.606)
+
+Topic_2:
+  Primary Phylum:   Proteobacteria (0.399)
+  Secondary Phylum: Bacteroidota (0.234)
+  Primary Family:   Comamonadaceae (0.190)
+  Primary Genus:    Flavobacterium (0.090)
+
+Topic_3:
+  Primary Phylum:   Planctomycetota (0.438)
+  Secondary Phylum: Proteobacteria (0.237)
+  Primary Family:   Pirellulaceae (0.124)
+  Primary Genus:    Rhodopirellula (0.102)
+
+Topic_4:
+  Primary Phylum:   Proteobacteria (0.702)
+  Secondary Phylum: Firmicutes (0.067)
+  Primary Family:   Rhodobacteraceae (0.625)
+  Primary Genus:    Gemmobacter (0.625)
+
+Topic_5:
+  Primary Phylum:   Proteobacteria (0.428)
+  Secondary Phylum: Bacteroidota (0.297)
+  Primary Family:   Rhodobacteraceae (0.308)
+  Primary Genus:    Pseudorhodobacter (0.076)
+
+================================================================================
+SAMPLE DISTRIBUTION
+================================================================================
+
+By Category:
+  Daphnia: Post-exposure: 53
+  Daphnia: Juvenile: Post-exposure: 41
+  Daphnia: Post-Long-exposure (selected survivals): 14
+  Daphnia: Pre-exposure : Clone control: 9
+
+By Type:
+  Daphnia: 117
+
+By Plastic:
+  Nylon: 34
+  PET: 31
+  PLA: 25
+  C: 18
+  Control: 9
+
+================================================================================
+DOMINANT TOPIC DISTRIBUTION
+================================================================================
+  Topic_2: 57 samples
+  Topic_1: 20 samples
+  Topic_5: 17 samples
+  Topic_0: 11 samples
+  Topic_3: 9 samples
+  Topic_4: 3 samples
