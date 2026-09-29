@@ -1,0 +1,232 @@
+﻿sample_name;Samples;Type;Pond;Clone;Plastic_Type;Category;Comparison;Plastic
+NA1;BP DG KNO 15.04 PET1;Bacterioplankton;DG;KNO15.04;PET;Bacterioplankton: Post-exposure;;YES
+NA2;BP DG F PET1 ;Bacterioplankton;DG;F;PET;Bacterioplankton: Post-exposure;;YES
+NA3;BP DG F PLA 1;Bacterioplankton;DG;F;PLA;Bacterioplankton: Post-exposure;;YES
+NA4;BP DG KNO 15.04 Nylon1;Bacterioplankton;DG;KNO15.04;Nylon;Bacterioplankton: Post-exposure;;YES
+NA5;BP DG BH PET 1;Bacterioplankton;DG;BH;PET;Bacterioplankton: Post-exposure;;YES
+NA6;BP DG BH PLA1;Bacterioplankton;DG;BH;PLA;Bacterioplankton: Post-exposure;;YES
+NA7;BP DG BH C2;Bacterioplankton;DG;BH;C;Bacterioplankton: Post-exposure;;NO
+NA8;BP DG F Nylon1;Bacterioplankton;DG;F;Nylon;Bacterioplankton: Post-exposure;;YES
+NA9;BP DG BH Nylon1;Bacterioplankton;DG;BH;Nylon;Bacterioplankton: Post-exposure;;YES
+NA10;BP DG KNO15.04 C1;Bacterioplankton;DG;KNO15.04;C;Bacterioplankton: Post-exposure;;NO
+NA11;BP DG KNO15.04 C2;Bacterioplankton;DG;KNO15.04;C;Bacterioplankton: Post-exposure;;NO
+NA12;BP DG BH C1;Bacterioplankton;DG;BH;C;Bacterioplankton: Post-exposure;;NO
+NA13;BP BP BH PLA2;Bacterioplankton;BP;BH;PLA;Bacterioplankton: Post-exposure;;YES
+NA14;BP BP KNO15.04 C2;Bacterioplankton;BP;KNO15.04;C;Bacterioplankton: Post-exposure;;NO
+NA15;BP BP KNO15.04 PET1;Bacterioplankton;BP;KNO15.04;PET;Bacterioplankton: Post-exposure;;YES
+NA16;BP BP BH PLA1;Bacterioplankton;BP;BH;PLA;Bacterioplankton: Post-exposure;;YES
+NA17;BP BP KNO15.04 C1;Bacterioplankton;BP;KNO15.04;C;Bacterioplankton: Post-exposure;;NO
+NA18;BP BP BH PET1;Bacterioplankton;BP;BH;PET;Bacterioplankton: Post-exposure;;YES
+NA19;BP BP KNO15.04 Nylon1;Bacterioplankton;BP;KNO15.04;Nylon;Bacterioplankton: Post-exposure;;YES
+NA20;BP BP BH PET2;Bacterioplankton;BP;BH;PET;Bacterioplankton: Post-exposure;;YES
+NA21;BP BP BH Nylon1;Bacterioplankton;BP;BH;Nylon;Bacterioplankton: Post-exposure;;YES
+NA22;BP DG PLA1;Bacterioplankton;DG;C;PLA;Bacterioplankton: Post-exposure;;YES
+NA23;BP BP PLA1;Bacterioplankton;BP;C;PLA;Bacterioplankton: Post-exposure;;YES
+NA24;BP BP Nylon1;Bacterioplankton;BP;C;Nylon;Bacterioplankton: Post-exposure;;YES
+NA25;BP BP F C2;Bacterioplankton;BP;F;C;Bacterioplankton: Post-exposure;;NO
+NA26;BP BP F C3;Bacterioplankton;BP;F;C;Bacterioplankton: Post-exposure;;NO
+NA27;BP BP BH C1;Bacterioplankton;BP;BH;C;Bacterioplankton: Post-exposure;;NO
+NA28;BP BP F PET1;Bacterioplankton;BP;F;PET;Bacterioplankton: Post-exposure;;YES
+NA29;BP BP BH C2;Bacterioplankton;BP;BH;C;Bacterioplankton: Post-exposure;;NO
+NA30;BP BP F PET2;Bacterioplankton;BP;F;PET;Bacterioplankton: Post-exposure;;YES
+NA31;BP BP F PET3;Bacterioplankton;BP;F;PET;Bacterioplankton: Post-exposure;;YES
+NA32;BP BP KNO15.04 C3;Bacterioplankton;BP;KNO15.04;C;Bacterioplankton: Post-exposure;;NO
+NA33;BP BP F C1;Bacterioplankton;BP;F;C;Bacterioplankton: Post-exposure;;NO
+NA34;BP BP F Nylon3;Bacterioplankton;BP;F;Nylon;Bacterioplankton: Post-exposure;;YES
+NA35;BP BP PLA1 F;Bacterioplankton;BP;F;PLA;Bacterioplankton: Post-exposure;;YES
+NA36;BP BP PLA3 F;Bacterioplankton;BP;F;PLA;Bacterioplankton: Post-exposure;;YES
+NA37;BP BP KNO15.04 Nylon3;Bacterioplankton;BP;KNO15.04;Nylon;Bacterioplankton: Post-exposure;;YES
+NA38;BP BP BH Nylon2;Bacterioplankton;BP;BH;Nylon;Bacterioplankton: Post-exposure;;YES
+NA39;BP BP KNO15.04 Nylon2;Bacterioplankton;BP;KNO15.04;Nylon;Bacterioplankton: Post-exposure;;YES
+NA40;BP BP BH  PET3 ;Bacterioplankton;BP;BH;PET;Bacterioplankton: Post-exposure;;YES
+NA41;BP BP F Nylon2;Bacterioplankton;BP;F;Nylon;Bacterioplankton: Post-exposure;;YES
+NA42;BP BP F PLA2;Bacterioplankton;BP;F;PLA;Bacterioplankton: Post-exposure;;YES
+NA43;BP BP KNO15.04 PET3;Bacterioplankton;BP;KNO15.04;PET;Bacterioplankton: Post-exposure;;YES
+NA44;BP BP KNO15.04 PLA3;Bacterioplankton;BP;KNO15.04;PLA;Bacterioplankton: Post-exposure;;YES
+NA45;BP BP KNO15.04 PET2;Bacterioplankton;BP;KNO15.04;PET;Bacterioplankton: Post-exposure;;YES
+NA46;BP BP BH Nylon3;Bacterioplankton;BP;BH;Nylon;Bacterioplankton: Post-exposure;;YES
+NA47;BP BP PET1;Bacterioplankton;BP;C;PET;Bacterioplankton: Post-exposure;;YES
+NA48;BP DG F C1;Bacterioplankton;DG;F;C;Bacterioplankton: Post-exposure;;NO
+NA49;BP DG KNO15.04 C3;Bacterioplankton;DG;KNO15.04;C;Bacterioplankton: Post-exposure;;NO
+NA50;BP DG KNO15.04 Nylon2;Bacterioplankton;DG;KNO15.04;Nylon;Bacterioplankton: Post-exposure;;YES
+NA51;BP DG F PLA2;Bacterioplankton;DG;F;PLA;Bacterioplankton: Post-exposure;;YES
+NA52;BP DG PET1;Bacterioplankton;DG;C;PET;Bacterioplankton: Post-exposure;;YES
+NA53;BP DG BH PET3;Bacterioplankton;DG;BH;PET;Bacterioplankton: Post-exposure;;YES
+NA54;BP DG F PLA3;Bacterioplankton;DG;F;PLA;Bacterioplankton: Post-exposure;;YES
+NA55;BP DG F C2;Bacterioplankton;DG;F;C;Bacterioplankton: Post-exposure;;NO
+NA56;BP DG PET3;Bacterioplankton;DG;C;PET;Bacterioplankton: Post-exposure;;YES
+NA57;BP BP PET2;Bacterioplankton;BP;C;PET;Bacterioplankton: Post-exposure;;YES
+NA58;BP DG F Nylon2;Bacterioplankton;DG;F;Nylon;Bacterioplankton: Post-exposure;;YES
+NA59;BP DG BH PLA2;Bacterioplankton;DG;BH;PLA;Bacterioplankton: Post-exposure;;YES
+NA60;BP DG BH PET2;Bacterioplankton;DG;BH;PET;Bacterioplankton: Post-exposure;;YES
+NA61;BP BP PLA2;Bacterioplankton;BP;C;PLA;Bacterioplankton: Post-exposure;;YES
+NA62;BP DG BH PLA3;Bacterioplankton;DG;BH;PLA;Bacterioplankton: Post-exposure;;YES
+NA63;BP BP PET3;Bacterioplankton;BP;C;PET;Bacterioplankton: Post-exposure;;YES
+NA64;BP DG F PET2;Bacterioplankton;DG;F;PET;Bacterioplankton: Post-exposure;;YES
+NA65;BP DG KNO15.04 PLA2;Bacterioplankton;DG;KNO15.04;PLA;Bacterioplankton: Post-exposure;;YES
+NA66;BP BP PLA3  ;Bacterioplankton;BP;C;PLA;Bacterioplankton: Post-exposure;;YES
+NA67;BP DG PET2;Bacterioplankton;DG;C;PET;Bacterioplankton: Post-exposure;;YES
+NA68;BP DG F C3;Bacterioplankton;DG;F;C;Bacterioplankton: Post-exposure;;NO
+NA69;BP DG KNO15.04 PET3;Bacterioplankton;DG;KNO15.04;PET;Bacterioplankton: Post-exposure;;YES
+NA70;BP DG F PET3;Bacterioplankton;DG;F;PET;Bacterioplankton: Post-exposure;;YES
+NA71;BP DG BH Nylon2;Bacterioplankton;DG;BH;Nylon;Bacterioplankton: Post-exposure;;YES
+NA72;BP DG PLA2;Bacterioplankton;DG;C;PLA;Bacterioplankton: Post-exposure;;YES
+NA73;BP DG BH C1;Bacterioplankton;DG;BH;C;Bacterioplankton: Post-exposure;;NO
+NA74;BP DG KNO15.04 PLA1;Bacterioplankton;DG;KNO15.04;PLA;Bacterioplankton: Post-exposure;;YES
+NA75;BP DG KNO15.04 PET2;Bacterioplankton;DG;KNO15.04;PET;Bacterioplankton: Post-exposure;;YES
+NA76;BP DG Nylon1;Bacterioplankton;DG;C;Nylon;Bacterioplankton: Post-exposure;;YES
+NA77;BP BP F Nylon1;Bacterioplankton;BP;F;Nylon;Bacterioplankton: Post-exposure;;YES
+NA78;BP DG KNO15.04 Nylon3;Bacterioplankton;DG;KNO15.04;Nylon;Bacterioplankton: Post-exposure;;YES
+NA79;BP DG F Nylon3;Bacterioplankton;DG;F;Nylon;Bacterioplankton: Post-exposure;;YES
+NA80;BP BP BH C3;Bacterioplankton;BP;BH;C;Bacterioplankton: Post-exposure;;NO
+NA81;BP DG BH Nylon3;Bacterioplankton;DG;BH;Nylon;Bacterioplankton: Post-exposure;;YES
+NA82;BP DG Nylon3;Bacterioplankton;DG;C;Nylon;Bacterioplankton: Post-exposure;;YES
+NA83;BP BP Nylon2;Bacterioplankton;BP;C; Nylon;Bacterioplankton: Post-exposure;;YES
+NA84;BP DG Nylon2;Bacterioplankton;DG;C;Nylon;Bacterioplankton: Post-exposure;;YES
+NA85;BP DG PLA3;Bacterioplankton;DG;C;PLA;Bacterioplankton: Post-exposure;;YES
+NA86;BP BP Nylon3;Bacterioplankton;BP;C;Nylon;Bacterioplankton: Post-exposure;;YES
+NA87;sterilised H2O PLA3;Bacterioplankton;H2O;H2O;PLA;Bacterioplankton: Post-exposure;;YES
+NA88;sterilised H2O PET1;Bacterioplankton;H2O;H2O;PET;Bacterioplankton: Post-exposure;;YES
+NA89;sterilised H2O PET3;Bacterioplankton;H2O;H2O;PET;Bacterioplankton: Post-exposure;;YES
+NA90;sterilised H2O Nylon3;Bacterioplankton;H2O;H2O;Nylon;Bacterioplankton: Post-exposure;;YES
+NA91;sterilised H2O PLA2;Bacterioplankton;H2O;H2O;PLA;Bacterioplankton: Post-exposure;;YES
+NA92;sterilised H2O Nylon1;Bacterioplankton;H2O;H2O;Nylon;Bacterioplankton: Post-exposure;;YES
+NA93;sterilised H2O PET2;Bacterioplankton;H2O;H2O;PET;Bacterioplankton: Post-exposure;;YES
+NA94;sterilised H2O Nylon2;Bacterioplankton;H2O;H2O;Nylon;Bacterioplankton: Post-exposure;;YES
+NA95;sterilised H2O PLA1;Bacterioplankton;H2O;H2O;PLA;Bacterioplankton: Post-exposure;;YES
+NC_kit;negative controle powersoil kit;Negative control-Powersoil;NA;NA;NA;Kit-control;;NA
+NA96;KNO15.04 PLA3 BP;Daphnia;BP;KNO15.04;PLA;Daphnia: Post-Long-exposure (selected survivals);Pre-Post-Long;YES
+NA97;PET3 BH BP;Daphnia;BP;BH;PET;Daphnia: Post-Long-exposure (selected survivals);Pre-Post-Long;YES
+NA98;F PLA2 BP;Daphnia;BP;F;PLA;Daphnia: Post-Long-exposure (selected survivals);Pre-Post-Long;YES
+NA99;KNO15.04 Nylon1 DG MF;Daphnia;DG;KNO15.04;Nylon;Daphnia: Post-Long-exposure (selected survivals);Pre-Post-Long;YES
+NA100;F BP PET2;Daphnia;BP;F;PET;Daphnia: Post-Long-exposure (selected survivals);Pre-Post-Long;YES
+NA101;KNO15.04 DG Nylon1;Daphnia;DG;KNO15.04;Nylon;Daphnia: Post-Long-exposure (selected survivals);Pre-Post-Long;YES
+NA102;BH PLA1 BP;Daphnia;BP;BH;PLA;Daphnia: Post-Long-exposure (selected survivals);Pre-Post-Long;YES
+NA103;BH PET2 BP;Daphnia;BP;BH;PET;Daphnia: Post-Long-exposure (selected survivals);Pre-Post-Long;YES
+NA104;F PLA2 BP;Daphnia;BP;F;PLA;Daphnia: Post-Long-exposure (selected survivals);Pre-Post-Long;YES
+NA105;F PET2 BP;Daphnia;BP;F;PET;Daphnia: Post-Long-exposure (selected survivals);Pre-Post-Long;YES
+NA106;NYLON1 BH  DG;Daphnia;DG;BH;Nylon;Daphnia: Post-Long-exposure (selected survivals);Pre-Post-Long;YES
+NA107;F PET2 BP;Daphnia;BP;F ;PET;Daphnia: Post-Long-exposure (selected survivals);Pre-Post-Long;YES
+NA108;KNO15.04 Nylon1 BP;Daphnia;BP;KNO15.04;Nylon;Daphnia: Post-Long-exposure (selected survivals);Pre-Post-Long;YES
+NA109;KNO15.04 Nylon1 BP;Daphnia;BP;KNO15.04;Nylon;Daphnia: Post-Long-exposure (selected survivals);Pre-Post-Long;YES
+NA110;BL. P 2.1;Daphnia;BP;Not sure;Not sure;Daphnia: Post-Long-exposure (selected survivals);Pre-Post-Long;Unknown
+NA111;BL. P 3.2;Daphnia;BP;Not sure;Not sure;Daphnia: Post-Long-exposure (selected survivals);Pre-Post-Long;Unknown
+NA112;BL. P. 3.1;Daphnia;BP;Not sure;Not sure;Daphnia: Post-Long-exposure (selected survivals);Pre-Post-Long;Unknown
+NA113;BL. P 2.3;Daphnia;BP;Not sure;Not sure;Daphnia: Post-Long-exposure (selected survivals);Pre-Post-Long;Unknown
+NA114;BL. P. 1.3;Daphnia;BP;Not sure;Not sure;Daphnia: Post-Long-exposure (selected survivals);Pre-Post-Long;Unknown
+NA115;BL. P 1-2;Daphnia;BP;Not sure;Not sure;Daphnia: Post-Long-exposure (selected survivals);Pre-Post-Long;Unknown
+NA116;BL. P. 2.2;Daphnia;BP;Not sure;Not sure;Daphnia: Post-Long-exposure (selected survivals);Pre-Post-Long;Unknown
+NA117;BL.P. 1.1;Daphnia;BP;Not sure;Not sure;Daphnia: Post-Long-exposure (selected survivals);Pre-Post-Long;Unknown
+NA118;BL. P. 3.3;Daphnia;BP;Not sure;Not sure;Daphnia: Post-Long-exposure (selected survivals);Pre-Post-Long;Unknown
+NA133;F;Daphnia;NA;F;Control;Daphnia: Pre-exposure : Clone control;Pre-Post-Long;NO
+NA134;F;Daphnia;NA;F;Control;Daphnia: Pre-exposure : Clone control;Pre-Post-Long;NO
+NA137;F;Daphnia;NA;F;Control;Daphnia: Pre-exposure : Clone control;Pre-Post-Long;NO
+NA141;KNO15.04;Daphnia;NA;KNO15.04;Control;Daphnia: Pre-exposure : Clone control;Pre-Post-Long;NO
+NA142;KNO15.04;Daphnia;NA;KNO15.04;Control;Daphnia: Pre-exposure : Clone control;Pre-Post-Long;NO
+NA145;KNO15.04;Daphnia;NA;KNO15.04;Control;Daphnia: Pre-exposure : Clone control;Pre-Post-Long;NO
+NA149;BH;Daphnia;NA;BH;Control;Daphnia: Pre-exposure : Clone control;Pre-Post-Long;NO
+NA150;BH;Daphnia;NA;BH;Control;Daphnia: Pre-exposure : Clone control;Pre-Post-Long;NO
+NA153;BH;Daphnia;NA;BH;Control;Daphnia: Pre-exposure : Clone control;Pre-Post-Long;NO
+NA157;DG KNO15.04 C1-J;Daphnia;DG;KNO15.04;C;Daphnia: Juvenile: Post-exposure;;NO
+NA158;DG KNO15.04 C2-J;Daphnia;DG;KNO15.05;C;Daphnia: Juvenile: Post-exposure;;NO
+NA159;DG BH Nylon1-J;Daphnia;DG;BH;Nylon;Daphnia: Juvenile: Post-exposure;;YES
+NA160;DG BH C2-J;Daphnia;DG;BH;C;Daphnia: Juvenile: Post-exposure;;NO
+NA161;DG BH PLA1-J;Daphnia;DG;BH;PLA;Daphnia: Juvenile: Post-exposure;;YES
+NA162;DG BH PET1-J;Daphnia;DG;BH;PET;Daphnia: Juvenile: Post-exposure;;YES
+NA163;DG F PLA1-J;Daphnia;DG;F;PLA;Daphnia: Juvenile: Post-exposure;;YES
+NA164;DG F PET1-J;Daphnia;DG;F;PET;Daphnia: Juvenile: Post-exposure;;YES
+NA165;DG KNO15.04 PET1-J;Daphnia;DG;KNO15;PET;Daphnia: Juvenile: Post-exposure;;YES
+NA166;DG F Nylon1-J;Daphnia;DG;F ;Nylon;Daphnia: Juvenile: Post-exposure;;YES
+NA167;DG KNO15.04 Nylon1-J;Daphnia;DG;KNO15.04;Nylon;Daphnia: Juvenile: Post-exposure;;YES
+NA168;BP BH PLA2-J ;Daphnia;BP;BH;PLA;Daphnia: Juvenile: Post-exposure;;YES
+NA169;BP KNO15.04 NYLON1-J;Daphnia;BP;KNO15.04;Nylon;Daphnia: Juvenile: Post-exposure;;YES
+NA170;BP KNO15.04 C1-J;Daphnia;BP;KNO15.04;C;Daphnia: Juvenile: Post-exposure;;NO
+NA171;BP BH Nylon1-J;Daphnia;BP;BH;Nylon;Daphnia: Juvenile: Post-exposure;;YES
+NA172;BP BH PET1 -J;Daphnia;BP;BH;PET;Daphnia: Juvenile: Post-exposure;;YES
+NA173;BP KNO15.04 PET1-J;Daphnia;BP;KNO15.04;PET;Daphnia: Juvenile: Post-exposure;;YES
+NA174;BP BH PET2-J;Daphnia;BP;BH;PET;Daphnia: Juvenile: Post-exposure;;YES
+NA175;BP KNO15.04 C2-J;Daphnia;BP;KNO15.04;C;Daphnia: Juvenile: Post-exposure;;NO
+NA176;BP BH PLA1-J;Daphnia;BP;BH;PLA;Daphnia: Juvenile: Post-exposure;;YES
+NA177;F Nylon3 BP-J;Daphnia;BP;F;Nylon;Daphnia: Juvenile: Post-exposure;;YES
+NA178;BP BH PET3-J ;Daphnia;BP;BH;PET;Daphnia: Juvenile: Post-exposure;;YES
+NA179;BP F C2-J;Daphnia;BP;F;C;Daphnia: Juvenile: Post-exposure;;NO
+NA180;BP BH Nylon2-J;Daphnia;BP;BH;Nylon;Daphnia: Juvenile: Post-exposure;;YES
+NA181;BP BH C1-J;Daphnia;BP;BH;C;Daphnia: Juvenile: Post-exposure;;NO
+NA182;BP F PLA1-J;Daphnia;BP;F;PLA;Daphnia: Juvenile: Post-exposure;;YES
+NA183;BP F Nylon2-J;Daphnia;BP;F;Nylon;Daphnia: Juvenile: Post-exposure;;YES
+NA185;BP F PET1-J;Daphnia;BP;F;PET;Daphnia: Juvenile: Post-exposure;;YES
+NA192;BP KNO15.04 Nylon2-J;Daphnia;BP;KNO15.04;Nylon;Daphnia: Juvenile: Post-exposure;;YES
+NA194;BP KNO15.04 PET2-J;Daphnia;BP;KNO15.04;PET;Daphnia: Juvenile: Post-exposure;;YES
+NA195;BP KNO15.04 PLA3-J;Daphnia;BP;KNO15.04;PLA;Daphnia: Juvenile: Post-exposure;;YES
+NA197;BP KNO15.04 C3-J;Daphnia;BP;KNO15.04;C;Daphnia: Juvenile: Post-exposure;;NO
+NA199;DG BH PLA3-J;Daphnia;DG;BH;PLA;Daphnia: Juvenile: Post-exposure;;YES
+NA200;KNO15.04 PLA3 DG-J;Daphnia;DG;KNO15.04;PLA;Daphnia: Juvenile: Post-exposure;;YES
+NA202;KNO15.04 Nylon2 DG-J;Daphnia;DG;KNO15.04;Nylon;Daphnia: Juvenile: Post-exposure;;YES
+NA203;KNO15.04 PET3 DG-J;Daphnia;DG;KNO15.04;PET;Daphnia: Juvenile: Post-exposure;;YES
+NA204;BH PET3 DG-J;Daphnia;DG;BH;PET;Daphnia: Juvenile: Post-exposure;;YES
+NA205;DG BH Nylon2-J;Daphnia;DG;BH;Nylon;Daphnia: Juvenile: Post-exposure;;YES
+NA207;KNO15.04 C3 DG-J;Daphnia;DG;KNO15.04;C;Daphnia: Juvenile: Post-exposure;;NO
+NA208;DG BH C3-J;Daphnia;DG;BH;C;Daphnia: Juvenile: Post-exposure;;NO
+NA219;DG F NYylon3-J;Daphnia;DG;F;Nylon;Daphnia: Juvenile: Post-exposure;;YES
+NA223;BP KNO15.04 PET3 A;Daphnia;BP;KNO15.04;PET;Daphnia: Post-exposure;Pre-Post-Long;YES
+NA224;BP F PET1 A;Daphnia;BP;F;PET;Daphnia: Post-exposure;Pre-Post-Long;YES
+NA225;BP F C1 A;Daphnia;BP;F;C;Daphnia: Post-exposure;Pre-Post-Long;NO
+NA226;BP KNO15.04 C1 A;Daphnia;BP;KNO15.04;C;Daphnia: Post-exposure;Pre-Post-Long;NO
+NA227;DG KNO15.04 Nylon3;Daphnia;DG;KNO15.04;Nylon;Daphnia: Post-exposure;Pre-Post-Long;YES
+NA228;BP KNO15.04 PET2 A;Daphnia;BP;KNO15.04;PET;Daphnia: Post-exposure;Pre-Post-Long;YES
+NA229;BP F PLA2 A;Daphnia;BP;F;PLA;Daphnia: Post-exposure;Pre-Post-Long;YES
+NA230;BP F Nylon2 A;Daphnia;BP;F;Nylon;Daphnia: Post-exposure;Pre-Post-Long;YES
+NA231;BP BH PET1 A;Daphnia;BP;BH;PET;Daphnia: Post-exposure;Pre-Post-Long;YES
+NA232;DG F Nylon3 A;Daphnia;DG;F;Nylon;Daphnia: Post-exposure;Pre-Post-Long;YES
+NA233;DG BH PLA1 A;Daphnia;DG;BH;PLA;Daphnia: Post-exposure;Pre-Post-Long;YES
+NA234;BP KNO15.04 Nylon2-J;Daphnia;BP;KNO15.04;Nylon;Daphnia: Post-exposure;Pre-Post-Long;YES
+NA235;BP F PET2 A;Daphnia;BP;F;PET;Daphnia: Post-exposure;Pre-Post-Long;YES
+NA236;BP F C3 A;Daphnia;BP;F;C;Daphnia: Post-exposure;Pre-Post-Long;NO
+NA237;BP BH C1 A;Daphnia;BP;BH;C;Daphnia: Post-exposure;Pre-Post-Long;NO
+NA238;BP BH Nylon1 A;Daphnia;BP;BH;Nylon;Daphnia: Post-exposure;Pre-Post-Long;YES
+NA239;F Nylon1 A BP;Daphnia;BP;F;Nylon;Daphnia: Post-exposure;Pre-Post-Long;YES
+NA240;DG BH Nylon1 A;Daphnia;DG;BH;Nylon;Daphnia: Post-exposure;Pre-Post-Long;YES
+NA241;F DG Nylon2;Daphnia;DG;F;Nylon;Daphnia: Post-exposure;Pre-Post-Long;YES
+NA242;BP F PLA3 A;Daphnia;BP;F;PLA;Daphnia: Post-exposure;Pre-Post-Long;YES
+NA243;BP F Nylon3 A;Daphnia;BP;F;Nylon;Daphnia: Post-exposure;Pre-Post-Long;YES
+NA244;BP KNO15.04 C2 A;Daphnia;BP;KNO15.04;C;Daphnia: Post-exposure;Pre-Post-Long;NO
+NA245;DG BH nylon3 A;Daphnia;DG;BH;Nylon;Daphnia: Post-exposure;Pre-Post-Long;YES
+NA246;BP F PET3 A;Daphnia;BP;F;PET;Daphnia: Post-exposure;Pre-Post-Long;YES
+NA247;3A Daphnia KNO15.04 PEt1 DG;Daphnia;DG;KNO15.04;PET;Daphnia: Post-exposure;Pre-Post-Long;YES
+NA248;DG BH PLA3 A;Daphnia;DG;BH;PLA;Daphnia: Post-exposure;Pre-Post-Long;YES
+NA249;BP F PET3 A;Daphnia;BP;F;PET;Daphnia: Post-exposure;Pre-Post-Long;YES
+NA250;BP F C2 A;Daphnia;BP;F;C;Daphnia: Post-exposure;Pre-Post-Long;NO
+NA251;BP BH PLA1 A;Daphnia;BP;BH;PLA;Daphnia: Post-exposure;Pre-Post-Long;YES
+NA252;BP F PLA2 A;Daphnia;BP;F;PLA;Daphnia: Post-exposure;Pre-Post-Long;YES
+NA253;DG F PLA1 A;Daphnia;DG;F;PLA;Daphnia: Post-exposure;Pre-Post-Long;YES
+NA254;KNO15.04 PLA2 DG A;Daphnia;DG;KNO15.04;PLA;Daphnia: Post-exposure;Pre-Post-Long;YES
+NA255;KNO15.04 PLA3 BP A;Daphnia;BP;KNO15.04;PLA;Daphnia: Post-exposure;Pre-Post-Long;YES
+NA256;BP BH Nylon3 A;Daphnia;BP;BH;Nylon;Daphnia: Post-exposure;Pre-Post-Long;YES
+NA257;BP PH PET2 A;Daphnia;BP;BH;PET;Daphnia: Post-exposure;Pre-Post-Long;YES
+NA258;DG BH Nylon2 A;Daphnia;DG;BH;Nylon;Daphnia: Post-exposure;Pre-Post-Long;YES
+NA259;DG F Nylon1 A;Daphnia;DG;F;Nylon;Daphnia: Post-exposure;Pre-Post-Long;YES
+NA260;DG BH C3 A;Daphnia;DG;BH;C;Daphnia: Post-exposure;Pre-Post-Long;NO
+NA261;BP KNO15.04 Nylon3 A;Daphnia;BP;KNO15.04;Nylon;Daphnia: Post-exposure;Pre-Post-Long;YES
+NA262;BP F PLA1 A;Daphnia;BP;F;PLA;Daphnia: Post-exposure;Pre-Post-Long;YES
+NA263;BP KNO15.04 PET1 A;Daphnia;BP;KNO15.04;PET;Daphnia: Post-exposure;Pre-Post-Long;YES
+NA264;BH DG PET2 A ;Daphnia;DG;BH;PET;Daphnia: Post-exposure;Pre-Post-Long;YES
+NA265;DG BH PET1 A;Daphnia;DG;BH;PET;Daphnia: Post-exposure;Pre-Post-Long;YES
+NA266;BP F PET2 A ;Daphnia;BP;F;PET;Daphnia: Post-exposure;Pre-Post-Long;YES
+NA267;BP KNO15.04 C3 A;Daphnia;BP;KNO15.04;C;Daphnia: Post-exposure;Pre-Post-Long;NO
+NA268;BP BH PET3 A;Daphnia;BP;BH;PET;Daphnia: Post-exposure;Pre-Post-Long;YES
+NA269;BP KNO15.04 Nylon1 A;Daphnia;BP;KNO15.04;Nylon;Daphnia: Post-exposure;Pre-Post-Long;YES
+NA270;KON15.04 PLA3 DG A;Daphnia;DG;KNO15.04;PLA;Daphnia: Post-exposure;Pre-Post-Long;YES
+NA271;DG F PET1 A;Daphnia;DG;F;PET;Daphnia: Post-exposure;Pre-Post-Long;YES
+NA272;BP F PLA3 A;Daphnia;BP;F;PLA;Daphnia: Post-exposure;Pre-Post-Long;YES
+NA273;BP KNO15.04 Nylon 2 A;Daphnia;BP;KNO15.04;Nylon;Daphnia: Post-exposure;Pre-Post-Long;YES
+NA274;BP BH Nylon2 A;Daphnia;BP;BH;Nylon;Daphnia: Post-exposure;Pre-Post-Long;YES
+NA275;BP BH PLA2 A;Daphnia;BP;BH;PLA;Daphnia: Post-exposure;Pre-Post-Long;YES
+NA276;Daphnia blauwe poort 22/10/21;Daphnia;Daphnia blauwe poort sampled on 22/10/21;NA;Unknown;Daphnia:env_sample;;Unknown
+NA277;Daphnia blauwe poort 24/11/2021;Daphnia;Daphnia blauwe poort sampled on 24/11/2021;NA;Unknown;Daphnia:env_sample;;Unknown
+NC_InsectKit;Negatieve controle Insect Kit;Negative control-Insect_kit;NA;NA;NA;Kit-control;;NA
+NA278;Baterioplankton 1 Blauwe Poort 8/11/2021 50 ml;Bacterioplankton;BP;NA;Control;Pond bacterioplankton: Control;;Unknown
+NA279;Bacterioplankton 1 De Gavers 8/11/2021;Bacterioplankton;DG;NA;Control;Pond bacterioplankton: Control;;Unknown
+NA280;Baterioplankton 2 Blauwe Poort 8/11/2021 50 ml;Bacterioplankton;BP;NA;Control;Pond bacterioplankton: Control;;Unknown
+NA281;Bacterioplankton 2 De Gavers 8/11/2021;Bacterioplankton;DG;NA;Control;Pond bacterioplankton: Control;;Unknown
+NA282;Baterioplankton 3 Blauwe Poort 8/11/2021 50 ml;Bacterioplankton;BP;NA;Control;Pond bacterioplankton: Control;;Unknown
+NA283;Bacterioplankton 3 De Gavers 8/11/2021;Bacterioplankton;DG;NA;Control;Pond bacterioplankton: Control;;Unknown
